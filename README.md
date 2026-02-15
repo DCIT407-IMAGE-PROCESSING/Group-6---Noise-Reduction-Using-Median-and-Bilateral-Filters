@@ -83,5 +83,5 @@ pip install opencv-python numpy matplotlib notebook
 
 ## 👥 Contributors
 **Group 6 - DCIT407 Image Processing**
-- Micheal Nii Tetteh Perry
+- Michael Perry Nii Dromo Tettey
 - Gabriel Kwame Addo Quainoo
