@@ -86,7 +86,7 @@ pip install opencv-python numpy matplotlib notebook
 
 | Name | ID Number |
 |------|-----------|
-| Tettey Michael Perry | 11318179 |
+| Tettey Michael Perry Nii Dromo | 11318179 |
 | Gabriel Kwame Addo Quainoo | 11298181 |
 | Johnson Junior Kreponi | 11205898 |
 | Adjei-Gyebi Minta O. | 11040586 |
