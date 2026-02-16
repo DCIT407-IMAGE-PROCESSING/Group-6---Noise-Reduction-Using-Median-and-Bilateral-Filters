@@ -83,5 +83,15 @@ pip install opencv-python numpy matplotlib notebook
 
 ## 👥 Contributors
 **Group 6 - DCIT407 Image Processing**
-- Micheal Nii Tetteh Perry
-- Gabriel Kwame Addo Quainoo
+
+| Name | ID Number |
+|------|-----------|
+| Tettey Michael Perry | 11318179 |
+| Gabriel Kwame Addo Quainoo | 11298181 |
+| Johnson Junior Kreponi | 11205898 |
+| Adjei-Gyebi Minta O. | 11040586 |
+| Aaron Yeboah | 11124173 |
+| Fetus Owusu Badu | 11260007 |
+| Thomas Tetteh Lartey | 11223578 |
+| Mahfuuz Suhyini Mustapha | 11217289 |
+| Fareed Iddrisu Gbeadese | 11354851 |
