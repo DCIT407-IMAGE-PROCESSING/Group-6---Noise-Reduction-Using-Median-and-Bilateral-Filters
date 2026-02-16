@@ -36,6 +36,16 @@ The Bilateral Filter is an advanced non-linear filter that smooths images while 
 
 ## Implementation Details
 
+### Folder Structure
+```
+Group-6---Noise-Reduction-Using-Median-and-Bilateral-Filters/
+├── README.md
+├── .gitignore
+├── notebook.ipynb
+└── content/
+    └── user3.jpg
+```
+
 ### Project Structure
 *   `notebook.ipynb`: The core Jupyter Notebook containing:
     *   Theoretical explanations.
